@@ -16,16 +16,16 @@ Please refer to the file “DataPlotting.ipynb” for how to plot training data.
     """<br/>
     Compute the sigmoid of z<br/>
 
-Arguments:<br/>
+> Arguments:<br/>
 z -- A scalar or numpy array of any size.<br/>
 
-Return:<br/>
+> Return:<br/>
 s -- sigmoid(z)<br/><br/>
 """
 
 ### START CODE HERE ###     
 s = 1 / (1 + np.exp(-z))
-    ### END CODE HERE ###
+### END CODE HERE ###
     
 return s
 
