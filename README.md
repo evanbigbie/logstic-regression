@@ -23,18 +23,16 @@ z -- A scalar or numpy array of any size.<br/>
 s -- sigmoid(z)<br/><br/>
 """
 
-Start code here<br/>   
-s = 1 / (1 + np.exp(-z))<br/>
+Start code here  
+s =<br/>
 End code here
     
 return s
 
-1.3. Learning the parameters based on file pa3-data1.csv
+1.3 What will happen if you don’t perform feature scaling?
 
-&nbsp;&nbsp;&nbsp;&nbsp;1.3.1. What will happen if you don’t perform feature scaling?
-
-&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. Plotting the decision boundary
-After you have performed feature scaling, please run your algorithm to obtain the set of weights. Then, by referring to the file “DataPlotting.ipynb”, plot the decision boundary. Please attach the decision boundary image in this report.
+1.4 Plotting the decision boundary
+> After you have performed feature scaling, please run your algorithm to obtain the set of weights. Then, by referring to the file “DataPlotting.ipynb”, plot the decision boundary. Please attach the decision boundary image in this report.
 
 
 
