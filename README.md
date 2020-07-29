@@ -29,15 +29,11 @@ End code here
     
 return s
 
-1.3 Cost function and gradient
-E(W) =-1/m ∑_(i=1)^m▒〖(y^((i))  log⁡(h_W (x^((i) ) ))" + (1 –" y^((i)) ") "  log⁡〖(1-h_W (x^((i) ) )))〗 〗
+1.3. Learning the parameters based on file pa3-data1.csv
 
-∂/∂"wj"  E(W)  = 1/m(∑_(i=1)^m▒〖(h(x^((i) ))-y^i 〗)〖×xj〗^i)
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.1. What will happen if you don’t perform feature scaling?
 
-	Learning the parameters based on file pa3-data1.csv
-1.4.1. What will happen if you don’t perform feature scaling?
-
-1.4.2. Plotting the decision boundary
+&nbsp;&nbsp;&nbsp;&nbsp;1.3.2. Plotting the decision boundary
 After you have performed feature scaling, please run your algorithm to obtain the set of weights. Then, by referring to the file “DataPlotting.ipynb”, plot the decision boundary. Please attach the decision boundary image in this report.
 
 
