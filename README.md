@@ -23,20 +23,13 @@ z -- A scalar or numpy array of any size.<br/>
 s -- sigmoid(z)<br/><br/>
 """
 
-Start code here  
+> Start code here  
 s =<br/>
 End code here
     
-return s
+> return s
 
 1.3 What will happen if you don’t perform feature scaling?
 
 1.4 Plotting the decision boundary
 > After you have performed feature scaling, please run your algorithm to obtain the set of weights. Then, by referring to the file “DataPlotting.ipynb”, plot the decision boundary. Please attach the decision boundary image in this report.
-
-
-
-
-########<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my code between hash lines<br/>
-########
