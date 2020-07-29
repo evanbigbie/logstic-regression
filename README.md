@@ -23,13 +23,13 @@ z -- A scalar or numpy array of any size.<br/>
 s -- sigmoid(z)<br/><br/>
 """
 
-### START CODE HERE ###     
-s = 1 / (1 + np.exp(-z))
-### END CODE HERE ###
+Start code here<br/>   
+s = 1 / (1 + np.exp(-z))<br/>
+End code here
     
 return s
 
-	Cost function and gradient
+1.3 Cost function and gradient
 E(W) =-1/m ∑_(i=1)^m▒〖(y^((i))  log⁡(h_W (x^((i) ) ))" + (1 –" y^((i)) ") "  log⁡〖(1-h_W (x^((i) ) )))〗 〗
 
 ∂/∂"wj"  E(W)  = 1/m(∑_(i=1)^m▒〖(h(x^((i) ))-y^i 〗)〖×xj〗^i)
