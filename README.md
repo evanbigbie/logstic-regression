@@ -5,8 +5,7 @@ This is from an undergrad ML course assignment. Instructions:
 > Introduction
 In this programming assignment, you will practice logistic regression. You will implement the logistic regression algorithm and apply it to two data sets.
 
-Part-I:
-In Part-I, you will build a logistic regression model to predict whether a student gets admitted into a university. Suppose that you are the administrator of a university department and you want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision.
+> In Part-I, you will build a logistic regression model to predict whether a student gets admitted into a university. Suppose that you are the administrator of a university department and you want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous applicants that you can use as a training set for logistic regression. For each training example, you have the applicant's scores on two exams and the admissions decision.
 Your task is to build a logistic regression (i.e., binary classification) model that estimates an applicant's probability of admission based the scores from those two exams. 
 
 1.1	Plot the training data
