@@ -11,10 +11,10 @@ Your task is to build a logistic regression (i.e., binary classification) model 
 
 Please refer to the file “DataPlotting.ipynb” for how to plot training data. By visualizing the data, you can see that the data is linearly separable. Please attach the image of data visualization.
 
-	Implement the vectorized Sigmoid function
-def sigmoid(z):
-    """
-    Compute the sigmoid of z
+1.2	Implement the vectorized Sigmoid function
+def sigmoid(z):<br/>
+    """<br/>
+    Compute the sigmoid of z<br/>
 
     Arguments:
     z -- A scalar or numpy array of any size.
