@@ -1,4 +1,4 @@
-## logstic-regression
+# Logstic Regression
 
 ### This is from an undergrad ML course assignment. Instructions:
 
